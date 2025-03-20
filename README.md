@@ -2,9 +2,9 @@
 
 ### 🏆 My GitHub Contributions
 
-![Top Langs](https://readme-l9f4p76t3-mohammadisas-projects.vercel.app/api/top-langs/?username=mohammadisa2&layout=compact&count_private=true)
+![Top Langs](https://readme-mocha.vercel.app//api/top-langs/?username=mohammadisa2&layout=compact&count_private=true)
 
-![GitHub Stats](https://readme-l9f4p76t3-mohammadisas-projects.vercel.app/api?username=mohammadisa2&show_icons=true&count_private=true)
+![GitHub Stats](https://readme-mocha.vercel.app//api?username=mohammadisa2&show_icons=true&count_private=true)
 
 **mohammadisa2/mohammadisa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
