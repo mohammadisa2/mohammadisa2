@@ -20,7 +20,7 @@ Memorizing the Quran is one thing, but preserving it in the heart and living by 
 
 ![Top Langs](https://readme-mocha.vercel.app//api/top-langs/?username=mohammadisa2&layout=compact&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadisa2&size_weight=0.5&count_weight=0.5&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadisa2&langs_count=10&size_weight=0.5&count_weight=0.5&count_private=true)
 
 ![GitHub Stats](https://readme-mocha.vercel.app/api?username=mohammadisa2&show_icons=true&theme=transparent&count_private=true&exclude_repo=readme,anuraghazra.github.io)
 
