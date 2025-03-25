@@ -18,9 +18,9 @@ Memorizing the Quran is one thing, but preserving it in the heart and living by 
 
 ### 🏆 My GitHub Contributions
 
-![Top Langs](https://readme-mocha.vercel.app//api/top-langs/?username=mohammadisa2&exclude_repo=github-readme-stats,readme)
-
 ![Top Langs](https://readme-mocha.vercel.app//api/top-langs/?username=mohammadisa2&layout=compact&langs_count=12&exclude_repo=github-readme-stats,readme)
+
+![Isa's GitHub activity graph](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohammadisa2&theme=tokyonight&show_icons=true&cache_seconds=1800)
 
 ![GitHub stats](https://readme-mocha.vercel.app/api?username=mohammadisa2&exclude_repo=github-readme-stats,readme)
 
