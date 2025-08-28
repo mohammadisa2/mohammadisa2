@@ -27,6 +27,6 @@ Memorizing the Quran is one thing, but preserving it in the heart and living by 
 ---
 
 ### 🔥 Let’s Connect!  
-- 📩 Hit me up on instagram [@mohmmdisa](https://instagram.com/mohmmdisa), or just drop me an [email](mailto:mohammadisaa73@gmail.com)!  
+- 📩 drop me an [email](mailto:mohammadisaa73@gmail.com)!  
 
 💡 *"Code with purpose, live with faith."* 🚀
